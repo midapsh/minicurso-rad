@@ -7,7 +7,7 @@ def run(message: str) -> int:
 
 
 def main():
-    message = "Hello World"
+    message = "Hello Henrique"
     sys.exit(run(message))
 
 
